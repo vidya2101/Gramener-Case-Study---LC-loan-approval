@@ -1,5 +1,5 @@
 # Gramener-Case-Study---LC-loan-approval
-A detailed notebook on how to do exploratory data analysis for beginnners 
+## A detailed notebook on how to do exploratory data analysis for beginnners 
 A guide to beginner: How to perform exploratory data analysis. If you are new to data science. This repository will be a one go solution to how to understand and kick start working with any analytics project. It's like a hello world problem to analytics. Python notebook is religiously commented to make sure whoever reads this will understand it. The only assumption made is that one knows python for data sciences.
 
 Problem Statement
